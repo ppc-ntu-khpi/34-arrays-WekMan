@@ -1,3 +1,4 @@
 # Практична робота "Масиви, вирази, керування виконанням програми"
 ## Завдання №15. Знайдіть друге за величиною число у заданому масиві 
-https://github.com/ppc-ntu-khpi/34-arrays-WekMan/blob/master/1.png
+
+![Gitter](https://github.com/ppc-ntu-khpi/34-arrays-WekMan/blob/master/1.png)
